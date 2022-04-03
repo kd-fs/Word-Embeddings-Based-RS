@@ -1,0 +1,5 @@
+.ipynb_checkpoints/*
+*.bak
+utils/.ipynb_checkpoints/*
+utils/__pycache__/*
+dataset/*
